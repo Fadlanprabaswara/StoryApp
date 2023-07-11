@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Storyapp</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="message_login_page">silahkan masukan data yang telah didaftarkan</string>
+    <string name="required_field">diperlukan!</string>
+    <string name="add_story">Add Story</string>
+    <string name="story">Story</string>
+    <string name="title">Title</string>
+    <string name="title_detail">Detail Story</string>
+    <string name="desc">Description</string>
+    <string name="password_length">setidaknya 8 karakter</string>
+    <string name="title_register">Form Registration</string>
+    <string name="title_login">Form Login</string>
+    <string name="logout">Logout</string>
+    <string name="title_add_story">Add Story</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="login">Login</string>
+    <string name="take_picture">Kamera</string>
+    <string name="upload_picture">Upload Story</string>
+    <string name="open_file">Open File</string>
+    <string name="input_image">Harap masukkan file gambar terlebih dulu!</string>
+    <string name="email_validation">Masukkan alamat email yang valid!</string>
+    <string name="image_detail">Image detail</string>
+    <string name="title_welcome">Selamat datang di APPSTORY</string>
+    <string name="message_welcome">Bagikan cerita Anda di sini!</string>
+    <string name="title_register_page">Silakan lengkapi data Anda di bagian bawah!</string>
+    <string name="image_register">Daftar di sini!</string>
+    <string name="map">map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
