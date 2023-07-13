@@ -9,4 +9,4 @@ Fitur 4 : Kamera
 Fitur 5 : Menggunakan Google Maps Api
 
 # Gambar Aplikasi 
-![Aplikasi StoryApp](https://drive.google.com/file/d/10K2a1p2KMeSkoF6c_xLDelTmW_4cJedq/view?usp=sharing)
+[![StoryApp](https://drive.google.com/file/d/10K2a1p2KMeSkoF6c_xLDelTmW_4cJedq/view?usp=sharing)](https://drive.google.com/file/d/10K2a1p2KMeSkoF6c_xLDelTmW_4cJedq/view?usp=sharing)
