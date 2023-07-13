@@ -8,5 +8,6 @@ Fitur 3 : Mempunyai fitur Register
 Fitur 4 : Kamera
 Fitur 5 : Menggunakan Google Maps Api
 
-# Gambar Aplikasi 
-[![StoryApp](https://drive.google.com/file/d/10K2a1p2KMeSkoF6c_xLDelTmW_4cJedq/view?usp=sharing)](https://drive.google.com/file/d/10K2a1p2KMeSkoF6c_xLDelTmW_4cJedq/view?usp=sharing)
+# video Aplikasi 
+[[![StoryApp](https://img.youtube.com/vi/CgFjEpVIiGQ/0.jpg)](https://youtu.be/CgFjEpVIiGQ)
+
