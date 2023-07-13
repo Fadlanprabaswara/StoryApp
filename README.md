@@ -11,7 +11,13 @@ Aplikasi ini dibangun menggunakan teknologi Android.aplikasi. Aplikasi ini merup
 | 4    | Kamera             | 
 | 5    | Menggunakan Google Maps API | 
 
-
 # video Aplikasi 
 [[![StoryApp](https://img.youtube.com/vi/CgFjEpVIiGQ/0.jpg)](https://youtu.be/CgFjEpVIiGQ)
 
+## Portofolio
+
+link portofolio yang lain
+
+- ### [&nbsp;&nbsp;Motogpcompose &rarr;](https://github.com/Fadlanprabaswara/MotogpCompose)
+- ### [&nbsp;&nbsp;Capstone Bangkit Academy &rarr;](https://github.com/Fadlanprabaswara/YouthLete)
+- ### [&nbsp;&nbsp;FadlanGithubApp &rarr;](https://github.com/Fadlanprabaswara/FadlanGithubApp)
